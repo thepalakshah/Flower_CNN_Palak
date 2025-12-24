@@ -9,7 +9,7 @@ This is a Convolutional Neural Network (CNN) based image classification project 
 
 ## 📌 Author
 Palak Shah  
-[GitHub Profile](https://github.com/PalakShah19)
+[GitHub Profile](https://github.com/thepalakshah)
 
 ## 📌 How to Run
 1. Install dependencies:  
